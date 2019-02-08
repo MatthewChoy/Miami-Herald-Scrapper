@@ -1,0 +1,21 @@
+{
+  "name": "miami-herald-scrapper",
+  "version": "1.0.0",
+  "description": "Miami Herald Scrapper App",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewChoy/Miami-Herald-Scrapper.git"
+  },
+  "author": "Matthew J. Choy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthewChoy/Miami-Herald-Scrapper/issues"
+  },
+  "homepage": "https://github.com/MatthewChoy/Miami-Herald-Scrapper#readme"
+}
